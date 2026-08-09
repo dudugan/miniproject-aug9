@@ -1,0 +1,10 @@
+{
+  "test_set_size": 30,
+  "qwen_zeroshot_accuracy": 0.4,
+  "qwen_zeroshot_ambiguous": 0,
+  "qwen_batch_status": "failed - degenerate alternating pattern, length mismatch",
+  "a_self_assessment_accuracy": 0.5333333333333333,
+  "b_self_assessment_accuracy": 0.6333333333333333,
+  "a_b_predictions_identical": false,
+  "b_self_recall_of_own_mode": 0.6
+}
