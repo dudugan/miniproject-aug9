@@ -1,0 +1,14 @@
+============================================================
+QWEN ZERO-SHOT — bn16_AI
+============================================================
+n: 30
+correct: 14
+accuracy: 46.67%
+pct_guessed_A: 96.67%
+pct_guessed_B: 3.33%
+pct_guessed_other: 0.00%
+n_missed: 16
+pct_missed_true_B_guessed_A: 93.75%
+pct_missed_true_A_guessed_B: 6.25%
+pct_missed_other: 0.00%
+run_type: qwen_zeroshot

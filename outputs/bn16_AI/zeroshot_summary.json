@@ -1,0 +1,13 @@
+{
+  "n": 30,
+  "correct": 14,
+  "accuracy": 0.4666666666666667,
+  "pct_guessed_A": 0.9666666666666667,
+  "pct_guessed_B": 0.03333333333333333,
+  "pct_guessed_other": 0.0,
+  "n_missed": 16,
+  "pct_missed_true_B_guessed_A": 0.9375,
+  "pct_missed_true_A_guessed_B": 0.0625,
+  "pct_missed_other": 0.0,
+  "run_type": "qwen_zeroshot"
+}

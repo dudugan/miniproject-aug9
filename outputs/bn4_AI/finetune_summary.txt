@@ -1,0 +1,25 @@
+============================================================
+QWEN FINETUNED (r=32, epochs=5) — bn4_AI
+============================================================
+n: 30
+correct: 14
+accuracy: 46.67%
+pct_guessed_A: 90.00%
+pct_guessed_B: 10.00%
+pct_guessed_other: 0.00%
+n_missed: 16
+pct_missed_true_B_guessed_A: 87.50%
+pct_missed_true_A_guessed_B: 12.50%
+pct_missed_other: 0.00%
+run_type: qwen_finetuned
+lora_r: 32
+epochs: 5
+
+
+Loss log:
+{'eval_loss': 0.3848726451396942, 'epoch': 1.0}
+{'eval_loss': 0.3069645166397095, 'epoch': 2.0}
+{'loss': 0.8229471588134766, 'epoch': 2.8}
+{'eval_loss': 0.26674482226371765, 'epoch': 3.0}
+{'eval_loss': 0.2367134988307953, 'epoch': 4.0}
+{'eval_loss': 0.2253064513206482, 'epoch': 5.0}

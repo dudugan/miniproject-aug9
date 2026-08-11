@@ -1,0 +1,25 @@
+============================================================
+QWEN FINETUNED (r=32, epochs=5) — bn16_human
+============================================================
+n: 30
+correct: 19
+accuracy: 63.33%
+pct_guessed_A: 33.33%
+pct_guessed_B: 66.67%
+pct_guessed_other: 0.00%
+n_missed: 11
+pct_missed_true_B_guessed_A: 27.27%
+pct_missed_true_A_guessed_B: 72.73%
+pct_missed_other: 0.00%
+run_type: qwen_finetuned
+lora_r: 32
+epochs: 5
+
+
+Loss log:
+{'eval_loss': 0.4214257597923279, 'epoch': 1.0}
+{'eval_loss': 0.3387206792831421, 'epoch': 2.0}
+{'loss': 0.8531873321533203, 'epoch': 2.8}
+{'eval_loss': 0.30027395486831665, 'epoch': 3.0}
+{'eval_loss': 0.2702259123325348, 'epoch': 4.0}
+{'eval_loss': 0.26687896251678467, 'epoch': 5.0}

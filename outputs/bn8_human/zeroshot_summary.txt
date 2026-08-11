@@ -1,0 +1,14 @@
+============================================================
+QWEN ZERO-SHOT — bn8_human
+============================================================
+n: 30
+correct: 18
+accuracy: 60.00%
+pct_guessed_A: 83.33%
+pct_guessed_B: 16.67%
+pct_guessed_other: 0.00%
+n_missed: 12
+pct_missed_true_B_guessed_A: 91.67%
+pct_missed_true_A_guessed_B: 8.33%
+pct_missed_other: 0.00%
+run_type: qwen_zeroshot

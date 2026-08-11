@@ -1,0 +1,25 @@
+============================================================
+QWEN FINETUNED (r=32, epochs=5) — bn8_AI
+============================================================
+n: 30
+correct: 14
+accuracy: 46.67%
+pct_guessed_A: 96.67%
+pct_guessed_B: 3.33%
+pct_guessed_other: 0.00%
+n_missed: 16
+pct_missed_true_B_guessed_A: 93.75%
+pct_missed_true_A_guessed_B: 6.25%
+pct_missed_other: 0.00%
+run_type: qwen_finetuned
+lora_r: 32
+epochs: 5
+
+
+Loss log:
+{'eval_loss': 0.41269606351852417, 'epoch': 1.0}
+{'eval_loss': 0.33316487073898315, 'epoch': 2.0}
+{'loss': 0.8402481079101562, 'epoch': 2.8}
+{'eval_loss': 0.2954472303390503, 'epoch': 3.0}
+{'eval_loss': 0.2678114175796509, 'epoch': 4.0}
+{'eval_loss': 0.2569285035133362, 'epoch': 5.0}

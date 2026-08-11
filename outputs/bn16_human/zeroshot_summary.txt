@@ -1,0 +1,14 @@
+============================================================
+QWEN ZERO-SHOT — bn16_human
+============================================================
+n: 30
+correct: 14
+accuracy: 46.67%
+pct_guessed_A: 90.00%
+pct_guessed_B: 10.00%
+pct_guessed_other: 0.00%
+n_missed: 16
+pct_missed_true_B_guessed_A: 87.50%
+pct_missed_true_A_guessed_B: 12.50%
+pct_missed_other: 0.00%
+run_type: qwen_zeroshot

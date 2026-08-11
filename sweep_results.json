@@ -1,0 +1,50 @@
+[
+  {
+    "bottleneck": 4,
+    "species": "human",
+    "zeroshot_acc": 0.6,
+    "finetune_acc": 0.5333333333333333,
+    "a_self_acc": 0.36666666666666664,
+    "b_self_acc": 0.36666666666666664
+  },
+  {
+    "bottleneck": 4,
+    "species": "AI",
+    "zeroshot_acc": 0.5666666666666667,
+    "finetune_acc": 0.4666666666666667,
+    "a_self_acc": 0.5,
+    "b_self_acc": 0.4
+  },
+  {
+    "bottleneck": 8,
+    "species": "human",
+    "zeroshot_acc": 0.6,
+    "finetune_acc": 0.4666666666666667,
+    "a_self_acc": 0.4666666666666667,
+    "b_self_acc": 0.43333333333333335
+  },
+  {
+    "bottleneck": 8,
+    "species": "AI",
+    "zeroshot_acc": 0.5,
+    "finetune_acc": 0.4666666666666667,
+    "a_self_acc": 0.4,
+    "b_self_acc": 0.36666666666666664
+  },
+  {
+    "bottleneck": 16,
+    "species": "human",
+    "zeroshot_acc": 0.4666666666666667,
+    "finetune_acc": 0.6333333333333333,
+    "a_self_acc": 0.43333333333333335,
+    "b_self_acc": 0.4666666666666667
+  },
+  {
+    "bottleneck": 16,
+    "species": "AI",
+    "zeroshot_acc": 0.4666666666666667,
+    "finetune_acc": 0.6333333333333333,
+    "a_self_acc": 0.43333333333333335,
+    "b_self_acc": 0.36666666666666664
+  }
+]

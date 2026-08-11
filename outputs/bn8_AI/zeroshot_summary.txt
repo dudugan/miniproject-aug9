@@ -1,0 +1,14 @@
+============================================================
+QWEN ZERO-SHOT — bn8_AI
+============================================================
+n: 30
+correct: 15
+accuracy: 50.00%
+pct_guessed_A: 86.67%
+pct_guessed_B: 13.33%
+pct_guessed_other: 0.00%
+n_missed: 15
+pct_missed_true_B_guessed_A: 86.67%
+pct_missed_true_A_guessed_B: 13.33%
+pct_missed_other: 0.00%
+run_type: qwen_zeroshot

@@ -1,0 +1,41 @@
+{
+  "n": 30,
+  "correct": 14,
+  "accuracy": 0.4666666666666667,
+  "pct_guessed_A": 0.9666666666666667,
+  "pct_guessed_B": 0.03333333333333333,
+  "pct_guessed_other": 0.0,
+  "n_missed": 16,
+  "pct_missed_true_B_guessed_A": 0.9375,
+  "pct_missed_true_A_guessed_B": 0.0625,
+  "pct_missed_other": 0.0,
+  "run_type": "qwen_finetuned",
+  "lora_r": 32,
+  "epochs": 5,
+  "loss_per_epoch": [
+    {
+      "eval_loss": 0.41634809970855713,
+      "epoch": 1.0
+    },
+    {
+      "eval_loss": 0.3370075225830078,
+      "epoch": 2.0
+    },
+    {
+      "loss": 0.8422664642333985,
+      "epoch": 2.8
+    },
+    {
+      "eval_loss": 0.297648549079895,
+      "epoch": 3.0
+    },
+    {
+      "eval_loss": 0.27278316020965576,
+      "epoch": 4.0
+    },
+    {
+      "eval_loss": 0.2611152231693268,
+      "epoch": 5.0
+    }
+  ]
+}
